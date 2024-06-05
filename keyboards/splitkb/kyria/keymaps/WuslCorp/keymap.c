@@ -19,7 +19,7 @@
 */
 
 #include QMK_KEYBOARD_H
-#include "wuslcorp.h"
+#include "wuslcorpLogo.h"
 //#include "kyriaLogo.h" 
 
 
