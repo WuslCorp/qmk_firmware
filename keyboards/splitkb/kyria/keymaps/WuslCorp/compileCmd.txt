@@ -1,0 +1,1 @@
+qmk compile -kb splitkb/kyria/rev3 -km WuslCorp -e CONVERT_TO=rp2040_ce
