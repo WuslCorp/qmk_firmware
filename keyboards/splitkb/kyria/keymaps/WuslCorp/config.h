@@ -17,6 +17,7 @@
 /*
  * WuslCorp Keymap
 */
+#define PERMISSIVE_HOLD
 
 #pragma once
 #ifdef ENCODER_ENABLE
